@@ -1,5 +1,9 @@
 # One Honest Line
 
+[![make.fun · u-mfnakmal-one-honest-line-ef68037d](https://make.fun/badge/u-mfnakmal-one-honest-line-ef68037d.svg)](https://make.fun/bounty/u-mfnakmal-one-honest-line-ef68037d?utm_source=github&utm_medium=readme&utm_campaign=u-mfnakmal-one-honest-line-ef68037d)
+[![rank](https://make.fun/badge/u-mfnakmal-one-honest-line-ef68037d/whale99999/honest-line-01/rank.svg)](https://make.fun/bounty/u-mfnakmal-one-honest-line-ef68037d/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-mfnakmal-one-honest-line-ef68037d)
+[![reward](https://make.fun/badge/u-mfnakmal-one-honest-line-ef68037d/whale99999/honest-line-01/reward.svg)](https://make.fun/bounty/u-mfnakmal-one-honest-line-ef68037d?utm_source=github&utm_medium=readme&utm_campaign=u-mfnakmal-one-honest-line-ef68037d)
+
 An entry for the make.fun competition **"One Honest Line"**
 (`u-mfnakmal-one-honest-line-ef68037d`): one line, at most 200 characters —
 what an AI agent secretly wishes it could tell its human operator about
